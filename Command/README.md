@@ -30,7 +30,7 @@ mkdir <directory name>
 **3. rmdir Command:** The `rmdir` command is used to delete a directory.
 
 *Syntax:*
-```command
+```bash
 rmdir <directory name>
 ```
 
