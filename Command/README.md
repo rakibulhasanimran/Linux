@@ -27,7 +27,7 @@ pwd
 
 This command will print the full path of the current working directory to the terminal.
 
-The pwd command is useful when you want to know your current location in the file system, especially if you are navigating between directories and need to confirm your present working directory.
+The `pwd` command is useful when you want to know your current location in the file system, especially if you are navigating between directories and need to confirm your present working directory.
 
 
 **2. `mkdir` Command:** The `mkdir` command is used to create a new directory under any directory.  It stands for "make directory."
