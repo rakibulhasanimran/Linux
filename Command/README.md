@@ -126,12 +126,25 @@ The available options of the `ls` command include:
 
 These options enable users to customize the appearance and details of the directory listing based on their specific requirements. You can use them individually or combine them as needed.
 
-**5. cd Command:** The `cd` command is used to change the current directory.
+**5. `cd` Command:** The `cd` command is used to change the current directory.
 
 *Syntax:*
 ```bash
 cd <directory name>
 ```
+
+- `<directory name>`: The directory to change into. If not specified, the command will switch to the user's home directory by default.
+
+*Examples:*
+```bash
+cd /path/to/directory   # Change to a specific directory
+cd                      # Change to the user's home directory
+cd ..                   # Move up one level in the directory hierarchy
+cd ~                    # Shortcut to the user's home directory
+cd -                    # Switch to the previous directory
+```
+
+The `cd` command is fundamental for navigating the file system in the command-line interface, allowing users to move between directories and access different parts of the file system.
 
 ### Linux File Commands
 
