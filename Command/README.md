@@ -49,11 +49,11 @@ In this example, the `mkdir` command is used to create a new directory named "ne
 
 The `mkdir` command in Linux has a few options to customize its behavior. Here are the common options:
 
-- `-m`, `--mode=MODE`: Set the file permission bits for the newly created directory. The mode is specified in octal representation. *For Example:*
+- `-m`, `--mode=MODE`: Set the file permission bits for the newly created directory. The mode is specified in octal representation. *For example:*
 ```bash
 mkdir -m 755 new_directory
 ```
-- `-p`, `--parents`: Create parent directories as needed. If a parent directory in the given path does not exist, it will be created. *For Example:*
+- `-p`, `--parents`: Create parent directories as needed. If a parent directory in the given path does not exist, it will be created. *For example:*
 ```bash
 mkdir -p parent_directory/new_directory
 ```
@@ -63,12 +63,33 @@ mkdir -p parent_directory/new_directory
 These options allow users to set permissions, create parent directories, and access information about the `mkdir` command. You can use them individually or combine them as needed.
     
 
-**3. rmdir Command:** The `rmdir` command is used to delete a directory.
+**3. `rmdir` Command:** The `rmdir` command is used to delete a directory. It stands for "remove directory."
 
 *Syntax:*
 ```bash
-rmdir <directory name>
+rmdir [options] <directory_name>
 ```
+
+- `options`: Additional parameters to customize the behavior of the rmdir command.
+- `<directory_name>`: The name of the directory to be removed.
+
+*Example:*
+```bash
+rmdir empty_directory
+```
+
+In this example, the `rmdir` command is used to remove the directory named "empty_directory" from the current working directory. It's important to note that the directory must be empty for `rmdir` to successfully remove it.
+
+The rmdir command in Linux is relatively straightforward and doesn't have many options. It is primarily used to remove empty directories. Here's the one common option:
+
+- `--ignore-fail-on-non-empty`: Ignore failure when attempting to remove a non-empty directory. This option allows `rmdir` to proceed with the removal even if the specified directory is not empty. *For example:*
+```bash
+rmdir --ignore-fail-on-non-empty  non_empty_directory
+```
+
+> Please note that the --ignore-fail-on-non-empty option is not available in all versions of the rmdir command. Depending on your system, you may need to check the available options using the command rmdir --help or man rmdir for more detailed information.
+
+
 
 **4. `ls` Command:** The `ls` command is used to display a list of content of a directory.
 
