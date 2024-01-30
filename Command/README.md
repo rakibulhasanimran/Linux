@@ -13,12 +13,22 @@ In this topic, we will discuss some most frequently used Linux commands with the
 - Linux Networking Command
 
 ### Linux Directory Commands
-**1. `pwd` Command:** The `pwd` command is used to display the location of the current working directory.
+**1. `pwd` Command:** The `pwd` command in Linux stands for "print working directory." It is used to display the current working directory, which is the directory in the file system where a user is currently located.
 
 *Syntax:*
 ```bash
 pwd
 ```
+
+*Example:*
+```bash
+pwd
+```
+
+This command will print the full path of the current working directory to the terminal.
+
+The pwd command is useful when you want to know your current location in the file system, especially if you are navigating between directories and need to confirm your present working directory.
+
 
 **2. `mkdir` Command:** The `mkdir` command is used to create a new directory under any directory.
 
