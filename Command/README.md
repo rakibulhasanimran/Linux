@@ -53,7 +53,12 @@ The `mkdir` command in Linux has a few options to customize its behavior. Here a
 ```bash
 mkdir -m 755 new_directory
 ```
-- 
+- `-p`, `--parents`: Create parent directories as needed. If a parent directory in the given path does not exist, it will be created.
+```bash
+mkdir -p parent_directory/new_directory
+```
+- `--help`: Display help information about the mkdir command.
+- `--version`: Display the version information of the mkdir command.
 
     
 
