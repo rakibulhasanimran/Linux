@@ -95,17 +95,19 @@ rmdir --ignore-fail-on-non-empty  non_empty_directory
 
 *Syntax:*
 ```bash
-ls
+ls [options] [files or directories]
 ```
+
+- `options`: Additional parameters to customize the behavior of the `ls` command.
+- `[files or directories]`: Optional arguments to specify which files or directories to list. If not provided, it lists the contents of the current directory.
 
 The command can be enhanced by incorporating options for a more tailored display:
 
-*Enhanced Syntax:*
+*Example:*
 ```bash
-ls <option>
+ls
 ```
-
-In this syntax, `<option>` is a placeholder to be substituted with a specific option for customizing the behavior of the `ls` command. This flexibility allows users to customize the presentation of directory content by selecting specific options according to their preferences or requirements.
+This command will list the contents of the current directory.
 
 The available options of the `ls` command include:
 
@@ -122,7 +124,7 @@ The available options of the `ls` command include:
 - `--color`: Colorize the output for better visual distinction.
 - `-1`: Display each entry on a new line.
 
-These options enable users to customize the appearance and details of the directory listing based on their specific requirements.
+These options enable users to customize the appearance and details of the directory listing based on their specific requirements. You can use them individually or combine them as needed.
 
 **5. cd Command:** The `cd` command is used to change the current directory.
 
