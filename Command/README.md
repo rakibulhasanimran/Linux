@@ -27,9 +27,31 @@ pwd
 mkdir <directory name>
 ```
 
+**3. rmdir Command:** The `rmdir` command is used to delete a directory.
+
+*Syntax:*
+```command
+rmdir <directory name>
+```
+
+***4. `ls` Command:** The `ls` command is used to display a list of content of a directory.
+
 ### Linux File Commands
 ### Linux File Content Commands
 ### Linux User Commands
 ### Linux Filter Commands
 ### Linux Utility Commands
 ### Linux Networking Command
+
+
+
+
+
+
+
+
+
+
+
+
+
