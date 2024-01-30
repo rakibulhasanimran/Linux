@@ -90,6 +90,29 @@ We can create multiple empty files by executing it once.
 touch <file1>  <file2> ....  
 ```
 
+**2. cat Command:** The `cat` command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
+
+*Syntax:*
+```bash
+cat [OPTION]... [FILE]..
+```
+
+To create a file, execute it as follows:
+
+*Syntax:*
+```bash
+cat > <file name>  
+// Enter file content  
+```
+
+Press "CTRL+ D" keys to save the file. To display the content of the file, execute it as follows:
+
+*Syntax:*
+```bash
+cat <file name>  
+```
+
+
 
 ### Linux File Content Commands
 ### Linux User Commands
