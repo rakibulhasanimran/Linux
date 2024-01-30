@@ -75,6 +75,22 @@ cd <directory name>
 ```
 
 ### Linux File Commands
+
+**1. `touch` Command:** The `touch` command is used to create empty files.
+
+*Syntax:*
+```bash
+touch <file name>
+```
+
+We can create multiple empty files by executing it once.
+
+*Syntax:*
+```bash
+touch <file1>  <file2> ....  
+```
+
+
 ### Linux File Content Commands
 ### Linux User Commands
 ### Linux Filter Commands
