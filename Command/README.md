@@ -4,18 +4,22 @@ Linux terminal is a user-friendly terminal as it provides various support option
 
 In this topic, we will discuss some most frequently used Linux commands with their examples. These commands are very useful for a beginner and professional both. We have divided these commands into following sections so that you can easily identify their usage:
 
-1. Linux Directory Commands
-2. Linux File Commands
-3. Linux File Content Commands
-4. Linux User Commands
-5. Linux Filter Commands
-6. Linux Utility Commands
-7. Linux Networking Command
+- Linux Directory Commands
+- Linux File Commands
+- Linux File Content Commands
+- Linux User Commands
+- Linux Filter Commands
+- Linux Utility Commands
+- Linux Networking Command
 
-### 1. Linux Directory Commands
-### 2. Linux File Commands
-### 3. Linux File Content Commands
-### 4. Linux User Commands
-### 5. Linux Filter Commands
-### 6. Linux Utility Commands
-### 7. Linux Networking Command
+### Linux Directory Commands
+
+
+
+
+### Linux File Commands
+### Linux File Content Commands
+### Linux User Commands
+### Linux Filter Commands
+### Linux Utility Commands
+### Linux Networking Command
