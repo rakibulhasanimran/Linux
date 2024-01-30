@@ -90,7 +90,7 @@ We can create multiple empty files by executing it once.
 touch <file1>  <file2> ....  
 ```
 
-**2. cat Command:** The `cat` command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
+**2. `cat` Command:** The `cat` command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
 
 *Syntax:*
 ```bash
@@ -111,6 +111,37 @@ Press "CTRL+ D" keys to save the file. To display the content of the file, execu
 ```bash
 cat <file name>  
 ```
+
+
+**3. rm Command:** The `rm` command is used to remove a file.
+
+*Syntax:*
+```bash
+rm <file name>  
+```
+
+**4. `cp` Command:** The `cp` command is used to copy a file or directory.
+
+*Syntax:*
+To copy in the same directory:
+```bash
+cp <existing file name> <new file name>
+```
+
+To copy in a different directory:
+```bash
+
+```
+
+
+**5. `mv` Command:** The `mv` command is used to move a file or a directory form one location to another location.
+
+*Syntax:*
+```bash
+mv <file name> <directory path>
+```
+
+
 
 
 
