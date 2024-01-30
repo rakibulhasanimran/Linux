@@ -13,7 +13,10 @@ In this topic, we will discuss some most frequently used Linux commands with the
 - Linux Networking Command
 
 ### Linux Directory Commands
-**1. `pwd` Command**
+**1. `pwd` Command:** The `pwd` command is used to display the location of the current working directory.
+*Syntax:*
+```Linux Command
+pwd```
 
 
 
