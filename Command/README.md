@@ -24,7 +24,7 @@ pwd
 
 *Syntax:*
 ```command
-mkdir <directory name>
+mkdir
 ```
 
 ### Linux File Commands
