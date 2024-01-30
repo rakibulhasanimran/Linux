@@ -87,7 +87,7 @@ The rmdir command in Linux is relatively straightforward and doesn't have many o
 rmdir --ignore-fail-on-non-empty  non_empty_directory
 ```
 
-> Please note that the --ignore-fail-on-non-empty option is not available in all versions of the rmdir command. Depending on your system, you may need to check the available options using the command rmdir --help or man rmdir for more detailed information.
+> Please note that the `--ignore-fail-on-non-empty` option is not available in all versions of the `rmdir` command. Depending on your system, you may need to check the available options using the command `rmdir --help` or `man rmdir` for more detailed information.
 
 
 
