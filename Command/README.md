@@ -49,6 +49,12 @@ In this example, the `mkdir` command is used to create a new directory named "ne
 
 The `mkdir` command in Linux has a few options to customize its behavior. Here are the common options:
 
+- `-m`, `--mode=MODE`: Set the file permission bits for the newly created directory. The mode is specified in octal representation. *For Example:*
+```bash
+mkdir -m 755 new_directory
+```
+- 
+
     
 
 **3. rmdir Command:** The `rmdir` command is used to delete a directory.
