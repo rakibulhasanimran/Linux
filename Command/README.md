@@ -34,7 +34,12 @@ mkdir <directory name>
 rmdir <directory name>
 ```
 
-***4. `ls` Command:** The `ls` command is used to display a list of content of a directory.
+**4. `ls` Command:** The `ls` command is used to display a list of content of a directory.
+
+*Syntax:*
+```command
+ls <option>
+```
 
 ### Linux File Commands
 ### Linux File Content Commands
