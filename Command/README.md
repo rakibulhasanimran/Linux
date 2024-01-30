@@ -30,12 +30,23 @@ This command will print the full path of the current working directory to the te
 The pwd command is useful when you want to know your current location in the file system, especially if you are navigating between directories and need to confirm your present working directory.
 
 
-**2. `mkdir` Command:** The `mkdir` command is used to create a new directory under any directory.  It stands for *make directory*.
+**2. `mkdir` Command:** The `mkdir` command is used to create a new directory under any directory.  It stands for "make directory."
 
 *Syntax:*
 ```bash
-mkdir <directory name>
+mkdir [options] <directory_name>
 ```
+
+- `options`: Additional parameters to customize the behavior of the mkdir command.
+- `<directory_name>`: The name of the directory to be created.
+
+*Example:*
+```bash
+mkdir new_directory
+```
+
+In this example, the `mkdir` command is used to create a new directory named "new_directory" in the current working directory. You can replace "new_directory" with the desired name of the directory you want to create.
+    
 
 **3. rmdir Command:** The `rmdir` command is used to delete a directory.
 
