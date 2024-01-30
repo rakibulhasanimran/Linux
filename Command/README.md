@@ -50,7 +50,7 @@ ls <option>
 
 In this syntax, `<option>` is a placeholder to be substituted with a specific option for customizing the behavior of the `ls` command. This flexibility allows users to customize the presentation of directory content by selecting specific options according to their preferences or requirements.
 
-The available options of the ls command include:
+The available options of the `ls` command include:
 
 - `-l`: Display detailed information about files and directories.
     
@@ -66,6 +66,13 @@ The available options of the ls command include:
 - `-1`: Display each entry on a new line.
 
 These options enable users to customize the appearance and details of the directory listing based on their specific requirements.
+
+**5. cd Command:** The `cd` command is used to change the current directory.
+
+*Syntax:*
+```bash
+cd <directory name>
+```
 
 ### Linux File Commands
 ### Linux File Content Commands
