@@ -16,10 +16,16 @@ In this topic, we will discuss some most frequently used Linux commands with the
 **1. `pwd` Command:** The `pwd` command is used to display the location of the current working directory.
 
 *Syntax:*
-```Linux Command
+```command
 pwd
 ```
 
+**2. `mkdir` Command:** The `mkdir` command is used to create a new directory under any directory.
+
+*Syntax:*
+```command
+mkdir <directory name>
+```
 
 ### Linux File Commands
 ### Linux File Content Commands
