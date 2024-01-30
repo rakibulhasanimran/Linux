@@ -50,6 +50,22 @@ ls <option>
 
 In this syntax, `<option>` is a placeholder to be substituted with a specific option for customizing the behavior of the `ls` command. This flexibility allows users to customize the presentation of directory content by selecting specific options according to their preferences or requirements.
 
+The available options of the ls command include:
+
+    `-l`: Display detailed information about files and directories.
+    `-a`: List all entries, including hidden files.
+    `-h`: Provide human-readable file sizes.
+    `-R`: Recursively list subdirectories.
+    `-t`: Sort files by modification time.
+    `-S`: Sort files by size.
+    `-r`: Reverse the order of the sort.
+    `-u`: Display files by access time.
+    `-d`: List directories themselves, not their contents.
+    `--color`: Colorize the output for better visual distinction.
+    `-1`: Display each entry on a new line.
+
+These options enable users to customize the appearance and details of the directory listing based on their specific requirements.
+
 ### Linux File Commands
 ### Linux File Content Commands
 ### Linux User Commands
