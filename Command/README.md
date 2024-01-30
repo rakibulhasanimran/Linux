@@ -17,7 +17,7 @@ In this topic, we will discuss some most frequently used Linux commands with the
 *Syntax:*
 ```command
 pwd
-
+```
 
 
 ### Linux File Commands
