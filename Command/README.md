@@ -16,7 +16,7 @@ In this topic, we will discuss some most frequently used Linux commands with the
 **1. `pwd` Command:** The `pwd` command is used to display the location of the current working directory.
 
 *Syntax:*
-```bash
+```command
 pwd
 ```
 
@@ -30,7 +30,7 @@ mkdir <directory name>
 **3. rmdir Command:** The `rmdir` command is used to delete a directory.
 
 *Syntax:*
-```bash
+```command
 rmdir <directory name>
 ```
 
