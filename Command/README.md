@@ -46,6 +46,9 @@ mkdir new_directory
 ```
 
 In this example, the `mkdir` command is used to create a new directory named "new_directory" in the current working directory. You can replace "new_directory" with the desired name of the directory you want to create.
+
+The `mkdir` command in Linux has a few options to customize its behavior. Here are the common options:
+
     
 
 **3. rmdir Command:** The `rmdir` command is used to delete a directory.
