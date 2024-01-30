@@ -16,7 +16,7 @@ In this topic, we will discuss some most frequently used Linux commands with the
 **1. `pwd` Command:** The `pwd` command is used to display the location of the current working directory.
 
 *Syntax:*
-```command
+```bash
 pwd
 ```
 
