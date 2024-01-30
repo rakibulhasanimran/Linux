@@ -60,7 +60,7 @@ mkdir -p parent_directory/new_directory
 - `--help`: Display help information about the mkdir command.
 - `--version`: Display the version information of the mkdir command.
 
-These options allow users to set permissions, create parent directories, and access information about the mkdir command. You can use them individually or combine them as needed.
+These options allow users to set permissions, create parent directories, and access information about the `mkdir` command. You can use them individually or combine them as needed.
     
 
 **3. rmdir Command:** The `rmdir` command is used to delete a directory.
