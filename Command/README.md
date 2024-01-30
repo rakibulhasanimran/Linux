@@ -13,3 +13,9 @@ In this topic, we will discuss some most frequently used Linux commands with the
 7. Linux Networking Command
 
 ### 1. Linux Directory Commands
+### 2. Linux File Commands
+### 3. Linux File Content Commands
+### 4. Linux User Commands
+### 5. Linux Filter Commands
+### 6. Linux Utility Commands
+### 7. Linux Networking Command
