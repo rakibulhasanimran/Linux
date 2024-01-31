@@ -296,7 +296,7 @@ The `mv` command is crucial for managing file and directory locations as well as
 ### Linux User Commands
 ### Linux Filter Commands
 ### Linux Utility Commands
-### Linux Networking Command
+### Linux Networking Commands
 
 
 
