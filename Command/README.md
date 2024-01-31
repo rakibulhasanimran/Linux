@@ -221,7 +221,7 @@ cat <file_name>
 The `cat` command is a versatile tool for viewing and manipulating file content in the command line. It is widely used in various shell scripts and commands for file-related operations.
 
 
-**3. rm Command:** The `rm` command is used to remove a file.
+**3. `rm` Command:** The `rm` command is used to remove a file.
 
 *Syntax:*
 ```bash
